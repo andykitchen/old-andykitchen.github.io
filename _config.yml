@@ -1,6 +1,6 @@
 # Site wide configuration
 
-title:            Site Title
+title:            Andy Kitchen
 locale:           en_US
 url:              
 
@@ -26,9 +26,9 @@ kramdown:
 
 # Site owner
 owner:
-  name: Your Name
-  avatar: bio-photo.jpg
-  bio: "Describe your self."
+  name: Andy Kitchen
+  avatar: andy.kitchen.jpg
+  bio: "I can control computers with my mind."
   email: 
   disqus-shortname: 
   twitter: #username
